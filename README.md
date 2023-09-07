@@ -1,5 +1,5 @@
 # Research_Papers_CV
-Certainly! Here are 15 research problem statements in the field of computer vision:
+Here are research problem statements in the field of computer vision:
 
 1. **Real-time Object Detection for Autonomous Vehicles**: Develop highly efficient object detection algorithms capable of real-time performance to enable safe autonomous driving.
 
